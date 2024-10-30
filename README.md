@@ -1,4 +1,4 @@
-# >NET Core Website
+# .NET Core Website
 
 This .NET Core website only supports authentication against a tenant in a Microsoft Entra ID service in Azure. This code works perfectly with the free tier of Entra ID but does not support authorization against an API endpoint. 
 
